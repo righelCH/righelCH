@@ -1,7 +1,7 @@
 # Hello I'm  Righel CH.👋
 ##### 📚Educación:
  #### 🎓Estudiante de Ingeniería de Software.
- - I'm  **Full-stack Javascript Developer** from **Perú** living in Spain.
+
  ---
  ##### 🧩Sobre mí:
  Me interesa la programación, ciencias biológicas, política y el arte.
