@@ -1,6 +1,6 @@
 # Hello I'm  Righel CH.👋
 ##### 📚Educación:
- #### 🎓Estudiante de Ingeniería de Software.
+ 🎓Estudiante de Ingeniería de Software.
 
  ---
  ##### 🧩Sobre mí:
@@ -10,10 +10,18 @@
  
  ---
  
- ##### 🌟Habilidades y Skills: 
-+  Actualmente estoy aprendiendo Desarrollo Web y Python.
-+  Tengo conocimiento de POO en C++ y Git.
- + También manejo aplicaciones de diseño gráfico y operación de base de datos.
+#### 🌟 Skills
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" style="animation: spin 2s linear infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="PL/SQL" alt="PL/SQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />
+</p>
+
+
+
+
  
  ---
  ##### 📁Portafolio:
