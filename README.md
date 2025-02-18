@@ -1,42 +1,33 @@
-# Hello I'm  Righel CH.👋
-##### 📚Educación:
- 🎓Estudiante de Ingeniería de Software.
+<h1 align="left">Hello! I'm Righel, a Software Developer 👋</h1>
 
- ---
- ##### 🧩Sobre mí:
- Me interesa la programación, ciencias biológicas, política y el arte.
- 
- Busco desarrollar mis habilidades en el área de la biología computacional.
- 
- ---
- 
-#### 🌟 Skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" style="animation: spin 2s linear infinite;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="PL/SQL" alt="PL/SQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />
-</p>
+###
 
+<p align="left">🌱 Currently learning: Spring Boot and multiplatform application development.<br><br>💡 I enjoy: Programming and refactoring code.<br><br>🤝 I'm looking to collaborate on: Projects that challenge me to grow as a developer, especially in backend and multiplatform solutions.</p>
 
+###
 
+<h2 align="left">Tech Stack</h2>
 
- 
- ---
- ##### 📁Portafolio:
- + En construcción...
- ---
- Algunos comandos
- |Comandos de la terminal|Función|
- |---------|-------|
- |*mkdir*|Para crear una nueva carpeta|
- |*rm -r*|Para eliminar una carpeta|
- *touch*| Para crear un nuevo archivo |
-  |*rm*|Para eliminar un archivo|
- |*cat*|Para imprimir el contenido de un archivo |
- 
- |Comandos alias|Función|
- |---|---|
- | alias *findd* = "ls~/ grep <palabra>"|Filtrar carpetas dando una palabra|
- |alias *cl*="clear"| para limpiar la consola|
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/righelCH/righelCH/output/snake.svg" alt="Snake animation" />
+
+###
